@@ -1,0 +1,6 @@
+sounddevice
+keyboard
+openai-whisper
+langchain
+scipy
+elevenlabs
